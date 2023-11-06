@@ -2,3 +2,5 @@
 print(5 + 2)
 
 print("second work")
+
+print("some info")
